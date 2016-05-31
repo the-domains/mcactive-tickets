@@ -1,0 +1,14 @@
+layout_spectrum: 0.7286793724633753
+typography_spectrum: 0.06635354971513152
+color:
+  brandStrength: 0.40469577233307064
+  lightness: 0.6439349346328527
+  saturation: 0.005141901550814509
+  rhythmicContrast: 0.6161280928645283
+  brandColors:
+    - '#2E0927'
+    - '#D90000'
+    - '#FF2D00'
+    - '#FF8C00'
+    - '#04756F'
+name: mcactive tickets
