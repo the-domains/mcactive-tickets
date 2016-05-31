@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[mcactive tickets]]></title>
+        <description><![CDATA[mcactive tickets]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Tue, 31 May 2016 18:37:05 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[mcactive.nl - het marketing bureau met passie voor internet!]]></title>
+            <description><![CDATA[<article><h1>mcactive.nl - het marketing bureau met passie voor internet!</h1><p>Mcactive.nl heeft geholpen met het opzetten van een volledig nieuw platform in Alphen aan den Rijn. Alphens.NL heeft als doel om alles wat er gebeurd is en alles dat er gaat gebeuren in Alphen aan den Rijn op één overzichtelijke website te krijgen. Dit doen we door enkele geautomatiseerde bronnen met eigen redactiewerk te combineren.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/8cbbd88edf4e37b213f4dd3e723fc3bbfeaa7749.jpg"></article>]]></description>
+            <link>https://mcactive.nl</link>
+            <guid isPermaLink="false">5ee9353f-a55f-4214-909d-97e03cee8be4</guid>
+            <pubDate>Tue, 31 May 2016 18:37:03 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
